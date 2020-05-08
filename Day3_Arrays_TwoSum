@@ -28,3 +28,5 @@ class Solution {
         return result;
     }
 }
+
+//Since there are two for loops, time complexity would be O(n*n) and since we have not used extra variables or locations, space complexity is O(1).
